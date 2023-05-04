@@ -24,3 +24,4 @@ g) semantic kernel picka complicated app and build using semantic kernel
 colab :https://github.com/sanjaybhargavm/CMPE258_GPT/blob/main/semantickernel.ipynb
 
 h) write an essay on best practices for prompt engineering in medium -
+https://medium.com/@sanjaybhargav.madamanchi/best-practices-for-prompt-engineering-6ff3c4ae8a1c
