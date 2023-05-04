@@ -14,7 +14,7 @@ d) Visual ChatGPT
 
 e)  OpenAI chat with excel - demo video upload
 colab: https://github.com/sanjaybhargavm/CMPE258_GPT/blob/main/OpenAI_excel.ipynb
-demo: 
+demo: https://drive.google.com/file/d/1JijuIkOYQmSwQQbHZI3VQGfUAQl7GVNK/view?usp=sharing
 
 
 g) semantic kernel picka complicated app and build using semantic kernel 
