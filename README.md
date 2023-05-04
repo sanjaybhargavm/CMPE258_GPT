@@ -9,6 +9,7 @@ colab: https://github.com/sanjaybhargavm/CMPE258_GPT/blob/main/babyagi.ipynb
 b) AgentGPT
 
 c) Jarvis hugginggpt live access demo - come up with innovative task - do not copy paste - demo video  upload
+video: https://drive.google.com/file/d/1DwEB7VPo_C-c98wHtRZM3qiV0jYTlvTM/view?usp=sharing
 
 d) Visual ChatGPT
 
